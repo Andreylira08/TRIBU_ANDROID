@@ -1,2 +1,9 @@
 # Archivos de todo el proyecto
+
+# ---- Base de datos
+
+util/database
+
+
+#Llaves
 .env
